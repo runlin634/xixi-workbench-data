@@ -1,0 +1,50 @@
+{
+  "updatedAt": "2026-07-30",
+  "items": [
+    {
+      "name": "日语听力精练 · 2025年7月N3真题听力",
+      "type": "听力",
+      "source": "B站（bilibili）",
+      "link": "https://www.bilibili.com/video/BV1CHymBUE87/",
+      "desc": "树先生日语出品N3真题听力精练，采用一题四听模式，含题目→原文→译文→答案四环节，覆盖问题1-5全部题型。",
+      "keywords": "〜ていただけませんか、〜させていただけませんか",
+      "tip": "每天精听1-2题，先盲听做题再对照原文复听，跟读模仿发音语调。"
+    },
+    {
+      "name": "日语播客·1小时沉浸式听力练习【N3】",
+      "type": "听力",
+      "source": "B站（bilibili）",
+      "link": "https://www.bilibili.com/video/BV1xVgJzrEAv/",
+      "desc": "沉浸式日语听力练习，持续1小时，配备双语字幕，以播客形式呈现日常生活场景对话，语速适合N3。",
+      "keywords": "购物、问路、餐厅点餐",
+      "tip": "分段学习每15分钟休息；第一遍开字幕理解大意，第二遍关字幕裸听。"
+    },
+    {
+      "name": "NHK News Web Easy（NHK简易新闻）",
+      "type": "阅读+听力",
+      "source": "NHK官网",
+      "link": "https://www3.nhk.or.jp/news/easy/",
+      "desc": "NHK为外国人和日本小学生制作的简化新闻网站，每日更新，汉字标注假名注音，配真人朗读音频。",
+      "keywords": "夏季天气、花火大会",
+      "tip": "每天阅读1-2篇，边听音频边跟读，训练阅读速度和听力同步。"
+    },
+    {
+      "name": "MATCHA Easy 日本文化·旅游杂志（简易版）",
+      "type": "阅读",
+      "source": "matcha-jp.com",
+      "link": "https://matcha-jp.com",
+      "desc": "面向在日外国人的日本旅游文化在线杂志简易日语版，语言自然地道，难度N4-N3，配精美图片。",
+      "keywords": "名所、名物、風習",
+      "tip": "每周精读1篇感兴趣主题，积累旅游文化词汇。"
+    },
+    {
+      "name": "JLPT Sensei — N3 Grammar & Vocabulary",
+      "type": "语法",
+      "source": "jlptsensei.com",
+      "link": "https://jlptsensei.com",
+      "desc": "免费N3备考网站，系统整理N3全部语法条目，每条配解说、例句和练习测验，提供核心词汇表和汉字表。",
+      "keywords": "〜ば〜ほど、〜ようになる、〜ことはない",
+      "tip": "每天学2-3个语法点，用学到的语法造3个原创句子。"
+    }
+  ]
+}
